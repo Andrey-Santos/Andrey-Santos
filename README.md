@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey, I'm Andrey C. Dos santos 👌
 
-<!--
-**Andrey-Santos/Andrey-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+   I'm a full-stack developer, with 3 years of experience. I will graduate in analysis and systems development at ESTÁCIO.
+   
+</p>
+<p>
+   - Back-end: PHP, Laravel, Delphi, Node.js, Python.
+   - Front-end: React JS, JavaScript, JQuery, React Native. 
+   - Databases: PostgreSQL, MySQL, SQLServer, SQLite, Redis and MongoDB. 
+   - Architecture Projects: MVC.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/Andrey-Santos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrey-Santos&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Santos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
